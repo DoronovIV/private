@@ -1,2 +1,1 @@
-# private
-My private vault.
+# My private vault.

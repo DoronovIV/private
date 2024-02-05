@@ -1,0 +1,77 @@
+{
+  "$schema": "https://cdn.statically.io/gh/nguyenngoclongdev/cdn/main/schema/v10/terminal-keeper.json",
+  "theme": "tribe",
+  "active": "default",
+  "activateOnStartup": true,
+  "keepExistingTerminals": false,
+  "sessions": {
+    "default": [
+      [
+        {
+          "name": "app",
+          "icon": "run-all",
+          "commands": [
+            ""
+          ],
+          "color": "terminal.ansiCyan"
+        },
+        {
+          "name": "git",
+          "icon": "git-branch",
+          "commands": [
+            ""
+          ],
+          "color": "terminal.ansiBrightRed"
+        }
+      ],
+      [
+        {
+          "name": "app",
+          "icon": "run-all",
+          "commands": [
+            ""
+          ],
+          "color": "terminal.ansiCyan"
+        },
+        {
+          "name": "git",
+          "icon": "git-branch",
+          "commands": [
+            ""
+          ],
+          "color": "terminal.ansiBrightRed"
+        }
+      ],
+      [
+        {
+          "name": "node",
+          "icon": "package",
+          "commans": [
+            ""
+          ],
+          "color": "terminal.ansiGreen"
+        }
+      ],
+      [
+        {
+          "name": "test",
+          "icon": "testing-failed-icon",
+          "commans": [
+            ""
+          ],
+          "color": "terminal.ansiRed"
+        }
+      ],
+      [
+        {
+          "name": "vifm",
+          "icon": "file-directory",
+          "commans": [
+            ""
+          ],
+          "color": "terminal.ansiWhite"
+        }
+      ]
+    ]
+  }
+}
